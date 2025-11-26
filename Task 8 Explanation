@@ -1,0 +1,4 @@
+In task 8, I created a basic login form using HTML and CSS.
+The HTML part contains a form with two labeled input fields: one for the username and another for the password using the type="password" attribute for security.
+A Login button is also included to complete the form structure.
+The CSS is used to improve the visual layout of the form. The form is centered on the webpage using Flexbox properties in the body.
